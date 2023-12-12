@@ -14,8 +14,6 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -38,7 +36,6 @@
  </a> 
 </p>
 <br />
-
 <!-- About Section -->
  # About me
 <p>
@@ -52,8 +49,7 @@
 <br/>
 <br/>
 <br/>
-## Tech Stack
-
+# Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
