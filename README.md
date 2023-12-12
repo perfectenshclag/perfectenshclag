@@ -23,7 +23,6 @@
         </samp>
 </h3>
 
-
 <p align="center">
  <a href="https://hammad0110.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hammad0110" />
@@ -31,11 +30,9 @@
   <a href="https://leetcode.com/perfectenshclag/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="hammad0110"/>
  </a>
- 
  <a href="https://linkedin.com/in/hammad0110" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hammad0110"/>
  </a>
- 
  <a href="https://instagram.com/hammad.xxi" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="hammad.xxi" />
  </a> 
@@ -44,21 +41,17 @@
 
 <!-- About Section -->
  # About me
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  💻 &emsp; Highly passionate about problem solving and learning tech stuff. <br/><br/>
  ☕️ &emsp; Living a caffiene dependent lifeform. <br/><br/>
  📧 &emsp; Reach me anytime: hammad2110127@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hammad0110/hammad0110/issues)
-
 </p>
 
 <br/>
 <br/>
 <br/>
-
 ## Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -70,13 +63,11 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br/>
 
 <p align="left">
   <a href="https://github.com/hammad0110?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <br/>
 <hr/>
 <br/>
