@@ -12,9 +12,6 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=hammad0110">
-  <img align="right" src="https://komarev.com/ghpvc/?username=hammad0110&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
@@ -62,7 +59,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
