@@ -5,12 +5,12 @@
 </h2>
 -->
 
-<!--
+
 <p align="center">
   <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+ 
 
 
 
@@ -51,6 +51,7 @@
 <br/>
 <br/>
 <br/>
+
 # Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
