@@ -1,13 +1,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Cross%20Platform%20Application%20Developer;Bytes%20by%20day%20,%20pixels%20by%20night;Always%20ready%20for%20challenges&center=true&width=500&height=20"></a>
+  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Cross%20Platform%20Application%20Developer;Bytes%20by%20day%20,%20pixels%20by%20night;Always%20ready%20for%20challenges&center=true&width=500&height=35"></a>
 </p>
 
  
-
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
