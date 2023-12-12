@@ -27,16 +27,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a cross platform application developer residing in <b>India</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://hammad0110.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hammad0110" />
@@ -58,7 +48,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  💻 &emsp; Highly passionate about problem solving and learning tech stuff. <br/><br/>
- ☕️ &emsp; A caffiene dependent lifeform. <br/><br/>
+ ☕️ &emsp; Living a caffiene dependent lifeform. <br/><br/>
  📧 &emsp; Reach me anytime: hammad2110127@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hammad0110/hammad0110/issues)
 
