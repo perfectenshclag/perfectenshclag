@@ -1,11 +1,8 @@
-
-
 <p align="center">
-  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Cross%20Platform%20Application%20Developer;Bytes%20by%20day%20,%20pixels%20by%20night;Always%20ready%20for%20new%20challenges&center=true&width=500&height=35"></a>
+  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Machine%20Learning%20Enthusiast;Building%20RAGs%20and%20AI%20Agents;Always%20ready%20for%20new%20challenges&center=true&width=500&height=35"></a>
 </p>
 
- 
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://perfectenshclag.com"><strong>Hammad</strong></a></b>
@@ -29,11 +26,11 @@
 <br />
 
 <!-- About Section -->
- # About me
+# About Me
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 💻 &emsp; Highly passionate about problem solving and learning tech stuff. <br/><br/>
- ☕️ &emsp; Living a caffiene dependent lifeform. <br/><br/>
+🔍 &emsp; **Exploring the depths of Deep Learning** — I'm passionate about Retrieval-Augmented Generation (RAG), building intelligent AI agents and much more.<br/><br/>
+ ☕️ &emsp; Coffee-powered coder with a deep interest in NLP and generative AI. <br/><br/>
  📧 &emsp; Reach me anytime: hammad2110127@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/perfectenshclag/perfectenshclag/issues)
 </p>
@@ -44,15 +41,13 @@
 
 # Tech Stack
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlit](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-276DC3?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br/>
 
 <p align="left">
@@ -80,5 +75,4 @@
   <br/>
 </a>
 
-
-![Hammad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=perfectenshclag&custom_title=hammad%200110's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Hammad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=perfectenshclag&custom_title=Hammad%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
