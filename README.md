@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Machine%20Learning%20Enthusiast;Building%20RAGs%20and%20AI%20Agents;Always%20ready%20for%20new%20challenges&center=true&width=500&height=35"></a>
+  <a href="https://github.com/perfectenshclag"><img src="https://readme-typing-svg.herokuapp.com/?lines=Turning%20caffeine%20into%20code%20since%202021;Machine%20Learning%;Building%20RAGs%20and%20AI%20Agents;Always%20ready%20for%20new%20challenges&center=true&width=500&height=35"></a>
 </p>
 
 <!-- Intro -->
