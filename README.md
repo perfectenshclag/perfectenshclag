@@ -26,14 +26,7 @@
 <br />
 
 <!-- About Section -->
-# About Me
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-🔍 &emsp;  Exploring the depths of Deep Learning— I'm passionate about Retrieval-Augmented Generation (RAG), building intelligent AI agents and much more.<br/><br/>
- ☕️ &emsp; Coffee-powered coder with a deep interest in NLP and generative AI. <br/><br/>
- 📧 &emsp; Reach me anytime: hammad2110127@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/perfectenshclag/perfectenshclag/issues)
-</p>
+
 
 <br/>
 <br/>
